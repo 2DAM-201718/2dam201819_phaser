@@ -2,6 +2,8 @@
 
 ## Repositori del professor
 
+- https://github.com/acacha/phaser-platformer
+
 ## Repositoris dels alumnes
 
 ## Link al jocs dels alumnes 
