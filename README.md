@@ -1,3 +1,17 @@
+# Joc de plataformes bàsic/tutorial
+
+## Repositori del professor
+
+## Repositoris dels alumnes
+
+## Link al jocs dels alumnes 
+
+# Jocs dels alumnes
+
+## Repositoris Github
+
+## Link al projecte/joc en explotació
+
 # Recursos
 
 - http://acacha.org/mediawiki/Phaser
